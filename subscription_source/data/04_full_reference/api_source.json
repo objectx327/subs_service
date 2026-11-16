@@ -1,0 +1,2702 @@
+[
+  {
+    "payment_id": "P0002-01-1",
+    "invoice_id": "I0002-01",
+    "paid_at": "2026-01-03T12:00:00Z",
+    "amount": "30.00",
+    "currency": "EUR",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-01-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0003-01-1",
+    "invoice_id": "I0003-01",
+    "paid_at": "2026-01-03T12:00:00Z",
+    "amount": "12.00",
+    "currency": "EUR",
+    "status": "failed",
+    "version": 1,
+    "updated_at": "2026-01-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0005-01-1",
+    "invoice_id": "I0005-01",
+    "paid_at": "2026-01-03T12:00:00Z",
+    "amount": "60.00",
+    "currency": "EUR",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-01-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0006-01-1",
+    "invoice_id": "I0006-01",
+    "paid_at": "2026-01-03T12:00:00Z",
+    "amount": "6.00",
+    "currency": "EUR",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-01-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0007-01-1",
+    "invoice_id": "I0007-01",
+    "paid_at": "2026-01-03T12:00:00Z",
+    "amount": "12.00",
+    "currency": "EUR",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-01-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0008-01-1",
+    "invoice_id": "I0008-01",
+    "paid_at": "2026-01-03T12:00:00Z",
+    "amount": "63.00",
+    "currency": "USD",
+    "status": "failed",
+    "version": 1,
+    "updated_at": "2026-01-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0010-01-1",
+    "invoice_id": "I0010-01",
+    "paid_at": "2026-01-03T12:00:00Z",
+    "amount": "24.00",
+    "currency": "EUR",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-01-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0011-01-1",
+    "invoice_id": "I0011-01",
+    "paid_at": "2026-01-03T12:00:00Z",
+    "amount": "30.00",
+    "currency": "EUR",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-01-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0012-01-1",
+    "invoice_id": "I0012-01",
+    "paid_at": "2026-01-03T12:00:00Z",
+    "amount": "7.50",
+    "currency": "USD",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-01-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0013-01-1",
+    "invoice_id": "I0013-01",
+    "paid_at": "2026-01-03T12:00:00Z",
+    "amount": "24.00",
+    "currency": "EUR",
+    "status": "failed",
+    "version": 1,
+    "updated_at": "2026-01-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0015-01-1",
+    "invoice_id": "I0015-01",
+    "paid_at": "2026-01-03T12:00:00Z",
+    "amount": "12.00",
+    "currency": "EUR",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-01-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0016-01-1",
+    "invoice_id": "I0016-01",
+    "paid_at": "2026-01-03T12:00:00Z",
+    "amount": "13.50",
+    "currency": "USD",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-01-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0017-01-1",
+    "invoice_id": "I0017-01",
+    "paid_at": "2026-01-03T12:00:00Z",
+    "amount": "30.00",
+    "currency": "EUR",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-01-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0018-01-1",
+    "invoice_id": "I0018-01",
+    "paid_at": "2026-01-03T12:00:00Z",
+    "amount": "12.00",
+    "currency": "EUR",
+    "status": "failed",
+    "version": 1,
+    "updated_at": "2026-01-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0020-01-1",
+    "invoice_id": "I0020-01",
+    "paid_at": "2026-01-03T12:00:00Z",
+    "amount": "63.00",
+    "currency": "USD",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-01-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0021-01-1",
+    "invoice_id": "I0021-01",
+    "paid_at": "2026-01-03T12:00:00Z",
+    "amount": "6.00",
+    "currency": "EUR",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-01-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0022-01-1",
+    "invoice_id": "I0022-01",
+    "paid_at": "2026-01-03T12:00:00Z",
+    "amount": "12.00",
+    "currency": "EUR",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-01-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0023-01-1",
+    "invoice_id": "I0023-01",
+    "paid_at": "2026-01-03T12:00:00Z",
+    "amount": "60.00",
+    "currency": "EUR",
+    "status": "failed",
+    "version": 1,
+    "updated_at": "2026-01-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0025-01-1",
+    "invoice_id": "I0025-01",
+    "paid_at": "2026-01-03T12:00:00Z",
+    "amount": "24.00",
+    "currency": "EUR",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-01-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0026-01-1",
+    "invoice_id": "I0026-01",
+    "paid_at": "2026-01-03T12:00:00Z",
+    "amount": "30.00",
+    "currency": "EUR",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-01-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0027-01-1",
+    "invoice_id": "I0027-01",
+    "paid_at": "2026-01-03T12:00:00Z",
+    "amount": "6.00",
+    "currency": "EUR",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-01-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0028-01-1",
+    "invoice_id": "I0028-01",
+    "paid_at": "2026-01-03T12:00:00Z",
+    "amount": "27.00",
+    "currency": "USD",
+    "status": "failed",
+    "version": 1,
+    "updated_at": "2026-01-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0030-01-1",
+    "invoice_id": "I0030-01",
+    "paid_at": "2026-01-03T12:00:00Z",
+    "amount": "12.00",
+    "currency": "EUR",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-01-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0031-01-1",
+    "invoice_id": "I0031-01",
+    "paid_at": "2026-01-03T12:00:00Z",
+    "amount": "12.00",
+    "currency": "EUR",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-01-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0032-01-1",
+    "invoice_id": "I0032-01",
+    "paid_at": "2026-01-03T12:00:00Z",
+    "amount": "31.50",
+    "currency": "USD",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-01-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0033-01-1",
+    "invoice_id": "I0033-01",
+    "paid_at": "2026-01-03T12:00:00Z",
+    "amount": "12.00",
+    "currency": "EUR",
+    "status": "failed",
+    "version": 1,
+    "updated_at": "2026-01-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0035-01-1",
+    "invoice_id": "I0035-01",
+    "paid_at": "2026-01-03T12:00:00Z",
+    "amount": "60.00",
+    "currency": "EUR",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-01-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0036-01-1",
+    "invoice_id": "I0036-01",
+    "paid_at": "2026-01-03T12:00:00Z",
+    "amount": "7.50",
+    "currency": "USD",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-01-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0037-01-1",
+    "invoice_id": "I0037-01",
+    "paid_at": "2026-01-03T12:00:00Z",
+    "amount": "12.00",
+    "currency": "EUR",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-01-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0038-01-1",
+    "invoice_id": "I0038-01",
+    "paid_at": "2026-01-03T12:00:00Z",
+    "amount": "60.00",
+    "currency": "EUR",
+    "status": "failed",
+    "version": 1,
+    "updated_at": "2026-01-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0040-01-1",
+    "invoice_id": "I0040-01",
+    "paid_at": "2026-01-03T12:00:00Z",
+    "amount": "27.00",
+    "currency": "USD",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-01-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0041-01-1",
+    "invoice_id": "I0041-01",
+    "paid_at": "2026-01-03T12:00:00Z",
+    "amount": "30.00",
+    "currency": "EUR",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-01-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0042-01-1",
+    "invoice_id": "I0042-01",
+    "paid_at": "2026-01-03T12:00:00Z",
+    "amount": "6.00",
+    "currency": "EUR",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-01-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0043-01-1",
+    "invoice_id": "I0043-01",
+    "paid_at": "2026-01-03T12:00:00Z",
+    "amount": "24.00",
+    "currency": "EUR",
+    "status": "failed",
+    "version": 1,
+    "updated_at": "2026-01-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0045-01-1",
+    "invoice_id": "I0045-01",
+    "paid_at": "2026-01-03T12:00:00Z",
+    "amount": "12.00",
+    "currency": "EUR",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-01-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0046-01-1",
+    "invoice_id": "I0046-01",
+    "paid_at": "2026-01-03T12:00:00Z",
+    "amount": "12.00",
+    "currency": "EUR",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-01-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0047-01-1",
+    "invoice_id": "I0047-01",
+    "paid_at": "2026-01-03T12:00:00Z",
+    "amount": "30.00",
+    "currency": "EUR",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-01-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0048-01-1",
+    "invoice_id": "I0048-01",
+    "paid_at": "2026-01-03T12:00:00Z",
+    "amount": "15.00",
+    "currency": "USD",
+    "status": "failed",
+    "version": 1,
+    "updated_at": "2026-01-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0050-01-1",
+    "invoice_id": "I0050-01",
+    "paid_at": "2026-01-03T12:00:00Z",
+    "amount": "60.00",
+    "currency": "EUR",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-01-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0051-01-1",
+    "invoice_id": "I0051-01",
+    "paid_at": "2026-01-03T12:00:00Z",
+    "amount": "6.00",
+    "currency": "EUR",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-01-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0052-01-1",
+    "invoice_id": "I0052-01",
+    "paid_at": "2026-01-03T12:00:00Z",
+    "amount": "13.50",
+    "currency": "USD",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-01-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0053-01-1",
+    "invoice_id": "I0053-01",
+    "paid_at": "2026-01-03T12:00:00Z",
+    "amount": "60.00",
+    "currency": "EUR",
+    "status": "failed",
+    "version": 1,
+    "updated_at": "2026-01-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0055-01-1",
+    "invoice_id": "I0055-01",
+    "paid_at": "2026-01-03T12:00:00Z",
+    "amount": "24.00",
+    "currency": "EUR",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-01-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0056-01-1",
+    "invoice_id": "I0056-01",
+    "paid_at": "2026-01-03T12:00:00Z",
+    "amount": "31.50",
+    "currency": "USD",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-01-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0057-01-1",
+    "invoice_id": "I0057-01",
+    "paid_at": "2026-01-03T12:00:00Z",
+    "amount": "6.00",
+    "currency": "EUR",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-01-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0058-01-1",
+    "invoice_id": "I0058-01",
+    "paid_at": "2026-01-03T12:00:00Z",
+    "amount": "24.00",
+    "currency": "EUR",
+    "status": "failed",
+    "version": 1,
+    "updated_at": "2026-01-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0060-01-1",
+    "invoice_id": "I0060-01",
+    "paid_at": "2026-01-03T12:00:00Z",
+    "amount": "15.00",
+    "currency": "USD",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-01-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0061-01-1",
+    "invoice_id": "I0061-01",
+    "paid_at": "2026-01-03T12:00:00Z",
+    "amount": "12.00",
+    "currency": "EUR",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-01-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0062-01-1",
+    "invoice_id": "I0062-01",
+    "paid_at": "2026-01-03T12:00:00Z",
+    "amount": "30.00",
+    "currency": "EUR",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-01-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0063-01-1",
+    "invoice_id": "I0063-01",
+    "paid_at": "2026-01-03T12:00:00Z",
+    "amount": "12.00",
+    "currency": "EUR",
+    "status": "failed",
+    "version": 1,
+    "updated_at": "2026-01-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0065-01-1",
+    "invoice_id": "I0065-01",
+    "paid_at": "2026-01-03T12:00:00Z",
+    "amount": "60.00",
+    "currency": "EUR",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-01-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0066-01-1",
+    "invoice_id": "I0066-01",
+    "paid_at": "2026-01-03T12:00:00Z",
+    "amount": "6.00",
+    "currency": "EUR",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-01-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0067-01-1",
+    "invoice_id": "I0067-01",
+    "paid_at": "2026-01-03T12:00:00Z",
+    "amount": "12.00",
+    "currency": "EUR",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-01-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0068-01-1",
+    "invoice_id": "I0068-01",
+    "paid_at": "2026-01-03T12:00:00Z",
+    "amount": "63.00",
+    "currency": "USD",
+    "status": "failed",
+    "version": 1,
+    "updated_at": "2026-01-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0070-01-1",
+    "invoice_id": "I0070-01",
+    "paid_at": "2026-01-03T12:00:00Z",
+    "amount": "24.00",
+    "currency": "EUR",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-01-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0071-01-1",
+    "invoice_id": "I0071-01",
+    "paid_at": "2026-01-03T12:00:00Z",
+    "amount": "30.00",
+    "currency": "EUR",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-01-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0072-01-1",
+    "invoice_id": "I0072-01",
+    "paid_at": "2026-01-03T12:00:00Z",
+    "amount": "7.50",
+    "currency": "USD",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-01-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0073-01-1",
+    "invoice_id": "I0073-01",
+    "paid_at": "2026-01-03T12:00:00Z",
+    "amount": "24.00",
+    "currency": "EUR",
+    "status": "failed",
+    "version": 1,
+    "updated_at": "2026-01-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0075-01-1",
+    "invoice_id": "I0075-01",
+    "paid_at": "2026-01-03T12:00:00Z",
+    "amount": "12.00",
+    "currency": "EUR",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-01-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0076-01-1",
+    "invoice_id": "I0076-01",
+    "paid_at": "2026-01-03T12:00:00Z",
+    "amount": "13.50",
+    "currency": "USD",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-01-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0077-01-1",
+    "invoice_id": "I0077-01",
+    "paid_at": "2026-01-03T12:00:00Z",
+    "amount": "30.00",
+    "currency": "EUR",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-01-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0078-01-1",
+    "invoice_id": "I0078-01",
+    "paid_at": "2026-01-03T12:00:00Z",
+    "amount": "12.00",
+    "currency": "EUR",
+    "status": "failed",
+    "version": 1,
+    "updated_at": "2026-01-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0080-01-1",
+    "invoice_id": "I0080-01",
+    "paid_at": "2026-01-03T12:00:00Z",
+    "amount": "63.00",
+    "currency": "USD",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-01-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0007-01-2",
+    "invoice_id": "I0007-01",
+    "paid_at": "2026-01-12T12:00:00Z",
+    "amount": "12.00",
+    "currency": "EUR",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-01-12T12:00:00Z"
+  },
+  {
+    "payment_id": "P0012-01-2",
+    "invoice_id": "I0012-01",
+    "paid_at": "2026-01-12T12:00:00Z",
+    "amount": "7.50",
+    "currency": "USD",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-01-12T12:00:00Z"
+  },
+  {
+    "payment_id": "P0017-01-2",
+    "invoice_id": "I0017-01",
+    "paid_at": "2026-01-12T12:00:00Z",
+    "amount": "30.00",
+    "currency": "EUR",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-01-12T12:00:00Z"
+  },
+  {
+    "payment_id": "P0022-01-2",
+    "invoice_id": "I0022-01",
+    "paid_at": "2026-01-12T12:00:00Z",
+    "amount": "12.00",
+    "currency": "EUR",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-01-12T12:00:00Z"
+  },
+  {
+    "payment_id": "P0027-01-2",
+    "invoice_id": "I0027-01",
+    "paid_at": "2026-01-12T12:00:00Z",
+    "amount": "6.00",
+    "currency": "EUR",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-01-12T12:00:00Z"
+  },
+  {
+    "payment_id": "P0032-01-2",
+    "invoice_id": "I0032-01",
+    "paid_at": "2026-01-12T12:00:00Z",
+    "amount": "31.50",
+    "currency": "USD",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-01-12T12:00:00Z"
+  },
+  {
+    "payment_id": "P0037-01-2",
+    "invoice_id": "I0037-01",
+    "paid_at": "2026-01-12T12:00:00Z",
+    "amount": "12.00",
+    "currency": "EUR",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-01-12T12:00:00Z"
+  },
+  {
+    "payment_id": "P0042-01-2",
+    "invoice_id": "I0042-01",
+    "paid_at": "2026-01-12T12:00:00Z",
+    "amount": "6.00",
+    "currency": "EUR",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-01-12T12:00:00Z"
+  },
+  {
+    "payment_id": "P0047-01-2",
+    "invoice_id": "I0047-01",
+    "paid_at": "2026-01-12T12:00:00Z",
+    "amount": "30.00",
+    "currency": "EUR",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-01-12T12:00:00Z"
+  },
+  {
+    "payment_id": "P0052-01-2",
+    "invoice_id": "I0052-01",
+    "paid_at": "2026-01-12T12:00:00Z",
+    "amount": "13.50",
+    "currency": "USD",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-01-12T12:00:00Z"
+  },
+  {
+    "payment_id": "P0057-01-2",
+    "invoice_id": "I0057-01",
+    "paid_at": "2026-01-12T12:00:00Z",
+    "amount": "6.00",
+    "currency": "EUR",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-01-12T12:00:00Z"
+  },
+  {
+    "payment_id": "P0062-01-2",
+    "invoice_id": "I0062-01",
+    "paid_at": "2026-01-12T12:00:00Z",
+    "amount": "30.00",
+    "currency": "EUR",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-01-12T12:00:00Z"
+  },
+  {
+    "payment_id": "P0067-01-2",
+    "invoice_id": "I0067-01",
+    "paid_at": "2026-01-12T12:00:00Z",
+    "amount": "12.00",
+    "currency": "EUR",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-01-12T12:00:00Z"
+  },
+  {
+    "payment_id": "P0072-01-2",
+    "invoice_id": "I0072-01",
+    "paid_at": "2026-01-12T12:00:00Z",
+    "amount": "7.50",
+    "currency": "USD",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-01-12T12:00:00Z"
+  },
+  {
+    "payment_id": "P0077-01-2",
+    "invoice_id": "I0077-01",
+    "paid_at": "2026-01-12T12:00:00Z",
+    "amount": "30.00",
+    "currency": "EUR",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-01-12T12:00:00Z"
+  },
+  {
+    "payment_id": "P0001-02-1",
+    "invoice_id": "I0001-02",
+    "paid_at": "2026-02-03T12:00:00Z",
+    "amount": "13.00",
+    "currency": "EUR",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-02-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0002-02-1",
+    "invoice_id": "I0002-02",
+    "paid_at": "2026-02-03T12:00:00Z",
+    "amount": "31.00",
+    "currency": "EUR",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-02-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0003-02-1",
+    "invoice_id": "I0003-02",
+    "paid_at": "2026-02-03T12:00:00Z",
+    "amount": "14.00",
+    "currency": "EUR",
+    "status": "failed",
+    "version": 1,
+    "updated_at": "2026-02-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0005-02-1",
+    "invoice_id": "I0005-02",
+    "paid_at": "2026-02-03T12:00:00Z",
+    "amount": "62.00",
+    "currency": "EUR",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-02-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0006-02-1",
+    "invoice_id": "I0006-02",
+    "paid_at": "2026-02-03T12:00:00Z",
+    "amount": "31.00",
+    "currency": "EUR",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-02-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0007-02-1",
+    "invoice_id": "I0007-02",
+    "paid_at": "2026-02-03T12:00:00Z",
+    "amount": "13.00",
+    "currency": "EUR",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-02-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0008-02-1",
+    "invoice_id": "I0008-02",
+    "paid_at": "2026-02-03T12:00:00Z",
+    "amount": "65.00",
+    "currency": "USD",
+    "status": "failed",
+    "version": 1,
+    "updated_at": "2026-02-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0010-02-1",
+    "invoice_id": "I0010-02",
+    "paid_at": "2026-02-03T12:00:00Z",
+    "amount": "26.00",
+    "currency": "EUR",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-02-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0011-02-1",
+    "invoice_id": "I0011-02",
+    "paid_at": "2026-02-03T12:00:00Z",
+    "amount": "31.00",
+    "currency": "EUR",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-02-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0012-02-1",
+    "invoice_id": "I0012-02",
+    "paid_at": "2026-02-03T12:00:00Z",
+    "amount": "32.50",
+    "currency": "USD",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-02-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0013-02-1",
+    "invoice_id": "I0013-02",
+    "paid_at": "2026-02-03T12:00:00Z",
+    "amount": "26.00",
+    "currency": "EUR",
+    "status": "failed",
+    "version": 1,
+    "updated_at": "2026-02-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0015-02-1",
+    "invoice_id": "I0015-02",
+    "paid_at": "2026-02-03T12:00:00Z",
+    "amount": "14.00",
+    "currency": "EUR",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-02-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0016-02-1",
+    "invoice_id": "I0016-02",
+    "paid_at": "2026-02-03T12:00:00Z",
+    "amount": "14.50",
+    "currency": "USD",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-02-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0017-02-1",
+    "invoice_id": "I0017-02",
+    "paid_at": "2026-02-03T12:00:00Z",
+    "amount": "31.00",
+    "currency": "EUR",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-02-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0018-02-1",
+    "invoice_id": "I0018-02",
+    "paid_at": "2026-02-03T12:00:00Z",
+    "amount": "62.00",
+    "currency": "EUR",
+    "status": "failed",
+    "version": 1,
+    "updated_at": "2026-02-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0020-02-1",
+    "invoice_id": "I0020-02",
+    "paid_at": "2026-02-03T12:00:00Z",
+    "amount": "65.00",
+    "currency": "USD",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-02-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0021-02-1",
+    "invoice_id": "I0021-02",
+    "paid_at": "2026-02-03T12:00:00Z",
+    "amount": "7.00",
+    "currency": "EUR",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-02-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0022-02-1",
+    "invoice_id": "I0022-02",
+    "paid_at": "2026-02-03T12:00:00Z",
+    "amount": "13.00",
+    "currency": "EUR",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-02-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0023-02-1",
+    "invoice_id": "I0023-02",
+    "paid_at": "2026-02-03T12:00:00Z",
+    "amount": "62.00",
+    "currency": "EUR",
+    "status": "failed",
+    "version": 1,
+    "updated_at": "2026-02-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0025-02-1",
+    "invoice_id": "I0025-02",
+    "paid_at": "2026-02-03T12:00:00Z",
+    "amount": "26.00",
+    "currency": "EUR",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-02-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0026-02-1",
+    "invoice_id": "I0026-02",
+    "paid_at": "2026-02-03T12:00:00Z",
+    "amount": "31.00",
+    "currency": "EUR",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-02-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0027-02-1",
+    "invoice_id": "I0027-02",
+    "paid_at": "2026-02-03T12:00:00Z",
+    "amount": "7.00",
+    "currency": "EUR",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-02-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0028-02-1",
+    "invoice_id": "I0028-02",
+    "paid_at": "2026-02-03T12:00:00Z",
+    "amount": "29.00",
+    "currency": "USD",
+    "status": "failed",
+    "version": 1,
+    "updated_at": "2026-02-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0030-02-1",
+    "invoice_id": "I0030-02",
+    "paid_at": "2026-02-03T12:00:00Z",
+    "amount": "62.00",
+    "currency": "EUR",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-02-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0031-02-1",
+    "invoice_id": "I0031-02",
+    "paid_at": "2026-02-03T12:00:00Z",
+    "amount": "13.00",
+    "currency": "EUR",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-02-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0032-02-1",
+    "invoice_id": "I0032-02",
+    "paid_at": "2026-02-03T12:00:00Z",
+    "amount": "32.50",
+    "currency": "USD",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-02-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0033-02-1",
+    "invoice_id": "I0033-02",
+    "paid_at": "2026-02-03T12:00:00Z",
+    "amount": "14.00",
+    "currency": "EUR",
+    "status": "failed",
+    "version": 1,
+    "updated_at": "2026-02-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0035-02-1",
+    "invoice_id": "I0035-02",
+    "paid_at": "2026-02-03T12:00:00Z",
+    "amount": "62.00",
+    "currency": "EUR",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-02-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0036-02-1",
+    "invoice_id": "I0036-02",
+    "paid_at": "2026-02-03T12:00:00Z",
+    "amount": "32.50",
+    "currency": "USD",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-02-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0037-02-1",
+    "invoice_id": "I0037-02",
+    "paid_at": "2026-02-03T12:00:00Z",
+    "amount": "13.00",
+    "currency": "EUR",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-02-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0038-02-1",
+    "invoice_id": "I0038-02",
+    "paid_at": "2026-02-03T12:00:00Z",
+    "amount": "62.00",
+    "currency": "EUR",
+    "status": "failed",
+    "version": 1,
+    "updated_at": "2026-02-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0040-02-1",
+    "invoice_id": "I0040-02",
+    "paid_at": "2026-02-03T12:00:00Z",
+    "amount": "29.00",
+    "currency": "USD",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-02-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0041-02-1",
+    "invoice_id": "I0041-02",
+    "paid_at": "2026-02-03T12:00:00Z",
+    "amount": "31.00",
+    "currency": "EUR",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-02-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0042-02-1",
+    "invoice_id": "I0042-02",
+    "paid_at": "2026-02-03T12:00:00Z",
+    "amount": "31.00",
+    "currency": "EUR",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-02-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0043-02-1",
+    "invoice_id": "I0043-02",
+    "paid_at": "2026-02-03T12:00:00Z",
+    "amount": "26.00",
+    "currency": "EUR",
+    "status": "failed",
+    "version": 1,
+    "updated_at": "2026-02-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0045-02-1",
+    "invoice_id": "I0045-02",
+    "paid_at": "2026-02-03T12:00:00Z",
+    "amount": "14.00",
+    "currency": "EUR",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-02-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0046-02-1",
+    "invoice_id": "I0046-02",
+    "paid_at": "2026-02-03T12:00:00Z",
+    "amount": "13.00",
+    "currency": "EUR",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-02-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0047-02-1",
+    "invoice_id": "I0047-02",
+    "paid_at": "2026-02-03T12:00:00Z",
+    "amount": "31.00",
+    "currency": "EUR",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-02-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0048-02-1",
+    "invoice_id": "I0048-02",
+    "paid_at": "2026-02-03T12:00:00Z",
+    "amount": "65.00",
+    "currency": "USD",
+    "status": "failed",
+    "version": 1,
+    "updated_at": "2026-02-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0050-02-1",
+    "invoice_id": "I0050-02",
+    "paid_at": "2026-02-03T12:00:00Z",
+    "amount": "62.00",
+    "currency": "EUR",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-02-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0051-02-1",
+    "invoice_id": "I0051-02",
+    "paid_at": "2026-02-03T12:00:00Z",
+    "amount": "7.00",
+    "currency": "EUR",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-02-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0052-02-1",
+    "invoice_id": "I0052-02",
+    "paid_at": "2026-02-03T12:00:00Z",
+    "amount": "14.50",
+    "currency": "USD",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-02-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0053-02-1",
+    "invoice_id": "I0053-02",
+    "paid_at": "2026-02-03T12:00:00Z",
+    "amount": "62.00",
+    "currency": "EUR",
+    "status": "failed",
+    "version": 1,
+    "updated_at": "2026-02-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0055-02-1",
+    "invoice_id": "I0055-02",
+    "paid_at": "2026-02-03T12:00:00Z",
+    "amount": "26.00",
+    "currency": "EUR",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-02-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0056-02-1",
+    "invoice_id": "I0056-02",
+    "paid_at": "2026-02-03T12:00:00Z",
+    "amount": "32.50",
+    "currency": "USD",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-02-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0057-02-1",
+    "invoice_id": "I0057-02",
+    "paid_at": "2026-02-03T12:00:00Z",
+    "amount": "7.00",
+    "currency": "EUR",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-02-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0058-02-1",
+    "invoice_id": "I0058-02",
+    "paid_at": "2026-02-03T12:00:00Z",
+    "amount": "26.00",
+    "currency": "EUR",
+    "status": "failed",
+    "version": 1,
+    "updated_at": "2026-02-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0060-02-1",
+    "invoice_id": "I0060-02",
+    "paid_at": "2026-02-03T12:00:00Z",
+    "amount": "65.00",
+    "currency": "USD",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-02-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0061-02-1",
+    "invoice_id": "I0061-02",
+    "paid_at": "2026-02-03T12:00:00Z",
+    "amount": "13.00",
+    "currency": "EUR",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-02-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0062-02-1",
+    "invoice_id": "I0062-02",
+    "paid_at": "2026-02-03T12:00:00Z",
+    "amount": "31.00",
+    "currency": "EUR",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-02-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0063-02-1",
+    "invoice_id": "I0063-02",
+    "paid_at": "2026-02-03T12:00:00Z",
+    "amount": "14.00",
+    "currency": "EUR",
+    "status": "failed",
+    "version": 1,
+    "updated_at": "2026-02-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0065-02-1",
+    "invoice_id": "I0065-02",
+    "paid_at": "2026-02-03T12:00:00Z",
+    "amount": "62.00",
+    "currency": "EUR",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-02-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0066-02-1",
+    "invoice_id": "I0066-02",
+    "paid_at": "2026-02-03T12:00:00Z",
+    "amount": "31.00",
+    "currency": "EUR",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-02-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0067-02-1",
+    "invoice_id": "I0067-02",
+    "paid_at": "2026-02-03T12:00:00Z",
+    "amount": "13.00",
+    "currency": "EUR",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-02-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0068-02-1",
+    "invoice_id": "I0068-02",
+    "paid_at": "2026-02-03T12:00:00Z",
+    "amount": "65.00",
+    "currency": "USD",
+    "status": "failed",
+    "version": 1,
+    "updated_at": "2026-02-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0070-02-1",
+    "invoice_id": "I0070-02",
+    "paid_at": "2026-02-03T12:00:00Z",
+    "amount": "26.00",
+    "currency": "EUR",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-02-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0071-02-1",
+    "invoice_id": "I0071-02",
+    "paid_at": "2026-02-03T12:00:00Z",
+    "amount": "31.00",
+    "currency": "EUR",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-02-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0072-02-1",
+    "invoice_id": "I0072-02",
+    "paid_at": "2026-02-03T12:00:00Z",
+    "amount": "32.50",
+    "currency": "USD",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-02-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0073-02-1",
+    "invoice_id": "I0073-02",
+    "paid_at": "2026-02-03T12:00:00Z",
+    "amount": "26.00",
+    "currency": "EUR",
+    "status": "failed",
+    "version": 1,
+    "updated_at": "2026-02-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0075-02-1",
+    "invoice_id": "I0075-02",
+    "paid_at": "2026-02-03T12:00:00Z",
+    "amount": "14.00",
+    "currency": "EUR",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-02-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0076-02-1",
+    "invoice_id": "I0076-02",
+    "paid_at": "2026-02-03T12:00:00Z",
+    "amount": "14.50",
+    "currency": "USD",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-02-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0077-02-1",
+    "invoice_id": "I0077-02",
+    "paid_at": "2026-02-03T12:00:00Z",
+    "amount": "31.00",
+    "currency": "EUR",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-02-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0078-02-1",
+    "invoice_id": "I0078-02",
+    "paid_at": "2026-02-03T12:00:00Z",
+    "amount": "62.00",
+    "currency": "EUR",
+    "status": "failed",
+    "version": 1,
+    "updated_at": "2026-02-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0080-02-1",
+    "invoice_id": "I0080-02",
+    "paid_at": "2026-02-03T12:00:00Z",
+    "amount": "65.00",
+    "currency": "USD",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-02-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0081-02-1",
+    "invoice_id": "I0081-02",
+    "paid_at": "2026-02-03T12:00:00Z",
+    "amount": "7.00",
+    "currency": "EUR",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-02-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0082-02-1",
+    "invoice_id": "I0082-02",
+    "paid_at": "2026-02-03T12:00:00Z",
+    "amount": "13.00",
+    "currency": "EUR",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-02-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0083-02-1",
+    "invoice_id": "I0083-02",
+    "paid_at": "2026-02-03T12:00:00Z",
+    "amount": "62.00",
+    "currency": "EUR",
+    "status": "failed",
+    "version": 1,
+    "updated_at": "2026-02-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0085-02-1",
+    "invoice_id": "I0085-02",
+    "paid_at": "2026-02-03T12:00:00Z",
+    "amount": "26.00",
+    "currency": "EUR",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-02-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0086-02-1",
+    "invoice_id": "I0086-02",
+    "paid_at": "2026-02-03T12:00:00Z",
+    "amount": "31.00",
+    "currency": "EUR",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-02-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0087-02-1",
+    "invoice_id": "I0087-02",
+    "paid_at": "2026-02-03T12:00:00Z",
+    "amount": "7.00",
+    "currency": "EUR",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-02-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0088-02-1",
+    "invoice_id": "I0088-02",
+    "paid_at": "2026-02-03T12:00:00Z",
+    "amount": "29.00",
+    "currency": "USD",
+    "status": "failed",
+    "version": 1,
+    "updated_at": "2026-02-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0090-02-1",
+    "invoice_id": "I0090-02",
+    "paid_at": "2026-02-03T12:00:00Z",
+    "amount": "14.00",
+    "currency": "EUR",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-02-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0002-01-2",
+    "invoice_id": "I0002-01",
+    "paid_at": "2026-01-12T12:00:00Z",
+    "amount": "30.00",
+    "currency": "EUR",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-02-06T08:00:00Z"
+  },
+  {
+    "payment_id": "P0002-02-2",
+    "invoice_id": "I0002-02",
+    "paid_at": "2026-02-12T12:00:00Z",
+    "amount": "31.00",
+    "currency": "EUR",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-02-12T12:00:00Z"
+  },
+  {
+    "payment_id": "P0007-02-2",
+    "invoice_id": "I0007-02",
+    "paid_at": "2026-02-12T12:00:00Z",
+    "amount": "13.00",
+    "currency": "EUR",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-02-12T12:00:00Z"
+  },
+  {
+    "payment_id": "P0012-02-2",
+    "invoice_id": "I0012-02",
+    "paid_at": "2026-02-12T12:00:00Z",
+    "amount": "32.50",
+    "currency": "USD",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-02-12T12:00:00Z"
+  },
+  {
+    "payment_id": "P0017-02-2",
+    "invoice_id": "I0017-02",
+    "paid_at": "2026-02-12T12:00:00Z",
+    "amount": "31.00",
+    "currency": "EUR",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-02-12T12:00:00Z"
+  },
+  {
+    "payment_id": "P0022-02-2",
+    "invoice_id": "I0022-02",
+    "paid_at": "2026-02-12T12:00:00Z",
+    "amount": "13.00",
+    "currency": "EUR",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-02-12T12:00:00Z"
+  },
+  {
+    "payment_id": "P0027-02-2",
+    "invoice_id": "I0027-02",
+    "paid_at": "2026-02-12T12:00:00Z",
+    "amount": "7.00",
+    "currency": "EUR",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-02-12T12:00:00Z"
+  },
+  {
+    "payment_id": "P0032-02-2",
+    "invoice_id": "I0032-02",
+    "paid_at": "2026-02-12T12:00:00Z",
+    "amount": "32.50",
+    "currency": "USD",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-02-12T12:00:00Z"
+  },
+  {
+    "payment_id": "P0037-02-2",
+    "invoice_id": "I0037-02",
+    "paid_at": "2026-02-12T12:00:00Z",
+    "amount": "13.00",
+    "currency": "EUR",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-02-12T12:00:00Z"
+  },
+  {
+    "payment_id": "P0042-02-2",
+    "invoice_id": "I0042-02",
+    "paid_at": "2026-02-12T12:00:00Z",
+    "amount": "31.00",
+    "currency": "EUR",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-02-12T12:00:00Z"
+  },
+  {
+    "payment_id": "P0047-02-2",
+    "invoice_id": "I0047-02",
+    "paid_at": "2026-02-12T12:00:00Z",
+    "amount": "31.00",
+    "currency": "EUR",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-02-12T12:00:00Z"
+  },
+  {
+    "payment_id": "P0052-02-2",
+    "invoice_id": "I0052-02",
+    "paid_at": "2026-02-12T12:00:00Z",
+    "amount": "14.50",
+    "currency": "USD",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-02-12T12:00:00Z"
+  },
+  {
+    "payment_id": "P0057-02-2",
+    "invoice_id": "I0057-02",
+    "paid_at": "2026-02-12T12:00:00Z",
+    "amount": "7.00",
+    "currency": "EUR",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-02-12T12:00:00Z"
+  },
+  {
+    "payment_id": "P0062-02-2",
+    "invoice_id": "I0062-02",
+    "paid_at": "2026-02-12T12:00:00Z",
+    "amount": "31.00",
+    "currency": "EUR",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-02-12T12:00:00Z"
+  },
+  {
+    "payment_id": "P0067-02-2",
+    "invoice_id": "I0067-02",
+    "paid_at": "2026-02-12T12:00:00Z",
+    "amount": "13.00",
+    "currency": "EUR",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-02-12T12:00:00Z"
+  },
+  {
+    "payment_id": "P0072-02-2",
+    "invoice_id": "I0072-02",
+    "paid_at": "2026-02-12T12:00:00Z",
+    "amount": "32.50",
+    "currency": "USD",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-02-12T12:00:00Z"
+  },
+  {
+    "payment_id": "P0077-02-2",
+    "invoice_id": "I0077-02",
+    "paid_at": "2026-02-12T12:00:00Z",
+    "amount": "31.00",
+    "currency": "EUR",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-02-12T12:00:00Z"
+  },
+  {
+    "payment_id": "P0082-02-2",
+    "invoice_id": "I0082-02",
+    "paid_at": "2026-02-12T12:00:00Z",
+    "amount": "13.00",
+    "currency": "EUR",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-02-12T12:00:00Z"
+  },
+  {
+    "payment_id": "P0087-02-2",
+    "invoice_id": "I0087-02",
+    "paid_at": "2026-02-12T12:00:00Z",
+    "amount": "7.00",
+    "currency": "EUR",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-02-12T12:00:00Z"
+  },
+  {
+    "payment_id": "P0001-01-1",
+    "invoice_id": "I0001-01",
+    "paid_at": "2026-01-03T12:00:00Z",
+    "amount": "18.00",
+    "currency": "EUR",
+    "status": "succeeded",
+    "version": 2,
+    "updated_at": "2026-03-02T10:00:00Z"
+  },
+  {
+    "payment_id": "P0001-03-1",
+    "invoice_id": "I0001-03",
+    "paid_at": "2026-03-03T12:00:00Z",
+    "amount": "13.00",
+    "currency": "EUR",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-03-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0002-03-1",
+    "invoice_id": "I0002-03",
+    "paid_at": "2026-03-03T12:00:00Z",
+    "amount": "31.00",
+    "currency": "EUR",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-03-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0003-03-1",
+    "invoice_id": "I0003-03",
+    "paid_at": "2026-03-03T12:00:00Z",
+    "amount": "14.00",
+    "currency": "EUR",
+    "status": "failed",
+    "version": 1,
+    "updated_at": "2026-03-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0005-03-1",
+    "invoice_id": "I0005-03",
+    "paid_at": "2026-03-03T12:00:00Z",
+    "amount": "62.00",
+    "currency": "EUR",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-03-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0006-03-1",
+    "invoice_id": "I0006-03",
+    "paid_at": "2026-03-03T12:00:00Z",
+    "amount": "31.00",
+    "currency": "EUR",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-03-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0007-03-1",
+    "invoice_id": "I0007-03",
+    "paid_at": "2026-03-03T12:00:00Z",
+    "amount": "13.00",
+    "currency": "EUR",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-03-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0008-03-1",
+    "invoice_id": "I0008-03",
+    "paid_at": "2026-03-03T12:00:00Z",
+    "amount": "65.00",
+    "currency": "USD",
+    "status": "failed",
+    "version": 1,
+    "updated_at": "2026-03-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0010-03-1",
+    "invoice_id": "I0010-03",
+    "paid_at": "2026-03-03T12:00:00Z",
+    "amount": "26.00",
+    "currency": "EUR",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-03-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0011-03-1",
+    "invoice_id": "I0011-03",
+    "paid_at": "2026-03-03T12:00:00Z",
+    "amount": "31.00",
+    "currency": "EUR",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-03-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0012-03-1",
+    "invoice_id": "I0012-03",
+    "paid_at": "2026-03-03T12:00:00Z",
+    "amount": "32.50",
+    "currency": "USD",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-03-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0013-03-1",
+    "invoice_id": "I0013-03",
+    "paid_at": "2026-03-03T12:00:00Z",
+    "amount": "26.00",
+    "currency": "EUR",
+    "status": "failed",
+    "version": 1,
+    "updated_at": "2026-03-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0015-03-1",
+    "invoice_id": "I0015-03",
+    "paid_at": "2026-03-03T12:00:00Z",
+    "amount": "14.00",
+    "currency": "EUR",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-03-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0016-03-1",
+    "invoice_id": "I0016-03",
+    "paid_at": "2026-03-03T12:00:00Z",
+    "amount": "14.50",
+    "currency": "USD",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-03-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0017-03-1",
+    "invoice_id": "I0017-03",
+    "paid_at": "2026-03-03T12:00:00Z",
+    "amount": "31.00",
+    "currency": "EUR",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-03-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0018-03-1",
+    "invoice_id": "I0018-03",
+    "paid_at": "2026-03-03T12:00:00Z",
+    "amount": "62.00",
+    "currency": "EUR",
+    "status": "failed",
+    "version": 1,
+    "updated_at": "2026-03-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0020-03-1",
+    "invoice_id": "I0020-03",
+    "paid_at": "2026-03-03T12:00:00Z",
+    "amount": "65.00",
+    "currency": "USD",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-03-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0021-03-1",
+    "invoice_id": "I0021-03",
+    "paid_at": "2026-03-03T12:00:00Z",
+    "amount": "7.00",
+    "currency": "EUR",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-03-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0022-03-1",
+    "invoice_id": "I0022-03",
+    "paid_at": "2026-03-03T12:00:00Z",
+    "amount": "13.00",
+    "currency": "EUR",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-03-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0023-03-1",
+    "invoice_id": "I0023-03",
+    "paid_at": "2026-03-03T12:00:00Z",
+    "amount": "62.00",
+    "currency": "EUR",
+    "status": "failed",
+    "version": 1,
+    "updated_at": "2026-03-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0025-03-1",
+    "invoice_id": "I0025-03",
+    "paid_at": "2026-03-03T12:00:00Z",
+    "amount": "26.00",
+    "currency": "EUR",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-03-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0026-03-1",
+    "invoice_id": "I0026-03",
+    "paid_at": "2026-03-03T12:00:00Z",
+    "amount": "31.00",
+    "currency": "EUR",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-03-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0027-03-1",
+    "invoice_id": "I0027-03",
+    "paid_at": "2026-03-03T12:00:00Z",
+    "amount": "7.00",
+    "currency": "EUR",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-03-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0028-03-1",
+    "invoice_id": "I0028-03",
+    "paid_at": "2026-03-03T12:00:00Z",
+    "amount": "29.00",
+    "currency": "USD",
+    "status": "failed",
+    "version": 1,
+    "updated_at": "2026-03-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0030-03-1",
+    "invoice_id": "I0030-03",
+    "paid_at": "2026-03-03T12:00:00Z",
+    "amount": "62.00",
+    "currency": "EUR",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-03-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0031-03-1",
+    "invoice_id": "I0031-03",
+    "paid_at": "2026-03-03T12:00:00Z",
+    "amount": "13.00",
+    "currency": "EUR",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-03-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0032-03-1",
+    "invoice_id": "I0032-03",
+    "paid_at": "2026-03-03T12:00:00Z",
+    "amount": "32.50",
+    "currency": "USD",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-03-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0033-03-1",
+    "invoice_id": "I0033-03",
+    "paid_at": "2026-03-03T12:00:00Z",
+    "amount": "14.00",
+    "currency": "EUR",
+    "status": "failed",
+    "version": 1,
+    "updated_at": "2026-03-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0035-03-1",
+    "invoice_id": "I0035-03",
+    "paid_at": "2026-03-03T12:00:00Z",
+    "amount": "62.00",
+    "currency": "EUR",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-03-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0036-03-1",
+    "invoice_id": "I0036-03",
+    "paid_at": "2026-03-03T12:00:00Z",
+    "amount": "32.50",
+    "currency": "USD",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-03-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0037-03-1",
+    "invoice_id": "I0037-03",
+    "paid_at": "2026-03-03T12:00:00Z",
+    "amount": "13.00",
+    "currency": "EUR",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-03-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0038-03-1",
+    "invoice_id": "I0038-03",
+    "paid_at": "2026-03-03T12:00:00Z",
+    "amount": "62.00",
+    "currency": "EUR",
+    "status": "failed",
+    "version": 1,
+    "updated_at": "2026-03-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0040-03-1",
+    "invoice_id": "I0040-03",
+    "paid_at": "2026-03-03T12:00:00Z",
+    "amount": "29.00",
+    "currency": "USD",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-03-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0041-03-1",
+    "invoice_id": "I0041-03",
+    "paid_at": "2026-03-03T12:00:00Z",
+    "amount": "31.00",
+    "currency": "EUR",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-03-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0042-03-1",
+    "invoice_id": "I0042-03",
+    "paid_at": "2026-03-03T12:00:00Z",
+    "amount": "31.00",
+    "currency": "EUR",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-03-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0043-03-1",
+    "invoice_id": "I0043-03",
+    "paid_at": "2026-03-03T12:00:00Z",
+    "amount": "26.00",
+    "currency": "EUR",
+    "status": "failed",
+    "version": 1,
+    "updated_at": "2026-03-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0045-03-1",
+    "invoice_id": "I0045-03",
+    "paid_at": "2026-03-03T12:00:00Z",
+    "amount": "14.00",
+    "currency": "EUR",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-03-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0046-03-1",
+    "invoice_id": "I0046-03",
+    "paid_at": "2026-03-03T12:00:00Z",
+    "amount": "13.00",
+    "currency": "EUR",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-03-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0047-03-1",
+    "invoice_id": "I0047-03",
+    "paid_at": "2026-03-03T12:00:00Z",
+    "amount": "31.00",
+    "currency": "EUR",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-03-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0048-03-1",
+    "invoice_id": "I0048-03",
+    "paid_at": "2026-03-03T12:00:00Z",
+    "amount": "65.00",
+    "currency": "USD",
+    "status": "failed",
+    "version": 1,
+    "updated_at": "2026-03-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0050-03-1",
+    "invoice_id": "I0050-03",
+    "paid_at": "2026-03-03T12:00:00Z",
+    "amount": "62.00",
+    "currency": "EUR",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-03-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0051-03-1",
+    "invoice_id": "I0051-03",
+    "paid_at": "2026-03-03T12:00:00Z",
+    "amount": "7.00",
+    "currency": "EUR",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-03-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0052-03-1",
+    "invoice_id": "I0052-03",
+    "paid_at": "2026-03-03T12:00:00Z",
+    "amount": "14.50",
+    "currency": "USD",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-03-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0053-03-1",
+    "invoice_id": "I0053-03",
+    "paid_at": "2026-03-03T12:00:00Z",
+    "amount": "62.00",
+    "currency": "EUR",
+    "status": "failed",
+    "version": 1,
+    "updated_at": "2026-03-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0055-03-1",
+    "invoice_id": "I0055-03",
+    "paid_at": "2026-03-03T12:00:00Z",
+    "amount": "26.00",
+    "currency": "EUR",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-03-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0056-03-1",
+    "invoice_id": "I0056-03",
+    "paid_at": "2026-03-03T12:00:00Z",
+    "amount": "32.50",
+    "currency": "USD",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-03-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0057-03-1",
+    "invoice_id": "I0057-03",
+    "paid_at": "2026-03-03T12:00:00Z",
+    "amount": "7.00",
+    "currency": "EUR",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-03-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0058-03-1",
+    "invoice_id": "I0058-03",
+    "paid_at": "2026-03-03T12:00:00Z",
+    "amount": "26.00",
+    "currency": "EUR",
+    "status": "failed",
+    "version": 1,
+    "updated_at": "2026-03-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0060-03-1",
+    "invoice_id": "I0060-03",
+    "paid_at": "2026-03-03T12:00:00Z",
+    "amount": "65.00",
+    "currency": "USD",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-03-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0061-03-1",
+    "invoice_id": "I0061-03",
+    "paid_at": "2026-03-03T12:00:00Z",
+    "amount": "13.00",
+    "currency": "EUR",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-03-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0062-03-1",
+    "invoice_id": "I0062-03",
+    "paid_at": "2026-03-03T12:00:00Z",
+    "amount": "31.00",
+    "currency": "EUR",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-03-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0063-03-1",
+    "invoice_id": "I0063-03",
+    "paid_at": "2026-03-03T12:00:00Z",
+    "amount": "14.00",
+    "currency": "EUR",
+    "status": "failed",
+    "version": 1,
+    "updated_at": "2026-03-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0065-03-1",
+    "invoice_id": "I0065-03",
+    "paid_at": "2026-03-03T12:00:00Z",
+    "amount": "62.00",
+    "currency": "EUR",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-03-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0066-03-1",
+    "invoice_id": "I0066-03",
+    "paid_at": "2026-03-03T12:00:00Z",
+    "amount": "31.00",
+    "currency": "EUR",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-03-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0067-03-1",
+    "invoice_id": "I0067-03",
+    "paid_at": "2026-03-03T12:00:00Z",
+    "amount": "13.00",
+    "currency": "EUR",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-03-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0068-03-1",
+    "invoice_id": "I0068-03",
+    "paid_at": "2026-03-03T12:00:00Z",
+    "amount": "65.00",
+    "currency": "USD",
+    "status": "failed",
+    "version": 1,
+    "updated_at": "2026-03-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0070-03-1",
+    "invoice_id": "I0070-03",
+    "paid_at": "2026-03-03T12:00:00Z",
+    "amount": "26.00",
+    "currency": "EUR",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-03-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0071-03-1",
+    "invoice_id": "I0071-03",
+    "paid_at": "2026-03-03T12:00:00Z",
+    "amount": "31.00",
+    "currency": "EUR",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-03-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0072-03-1",
+    "invoice_id": "I0072-03",
+    "paid_at": "2026-03-03T12:00:00Z",
+    "amount": "32.50",
+    "currency": "USD",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-03-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0073-03-1",
+    "invoice_id": "I0073-03",
+    "paid_at": "2026-03-03T12:00:00Z",
+    "amount": "26.00",
+    "currency": "EUR",
+    "status": "failed",
+    "version": 1,
+    "updated_at": "2026-03-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0075-03-1",
+    "invoice_id": "I0075-03",
+    "paid_at": "2026-03-03T12:00:00Z",
+    "amount": "14.00",
+    "currency": "EUR",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-03-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0076-03-1",
+    "invoice_id": "I0076-03",
+    "paid_at": "2026-03-03T12:00:00Z",
+    "amount": "14.50",
+    "currency": "USD",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-03-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0077-03-1",
+    "invoice_id": "I0077-03",
+    "paid_at": "2026-03-03T12:00:00Z",
+    "amount": "31.00",
+    "currency": "EUR",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-03-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0078-03-1",
+    "invoice_id": "I0078-03",
+    "paid_at": "2026-03-03T12:00:00Z",
+    "amount": "62.00",
+    "currency": "EUR",
+    "status": "failed",
+    "version": 1,
+    "updated_at": "2026-03-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0080-03-1",
+    "invoice_id": "I0080-03",
+    "paid_at": "2026-03-03T12:00:00Z",
+    "amount": "65.00",
+    "currency": "USD",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-03-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0081-03-1",
+    "invoice_id": "I0081-03",
+    "paid_at": "2026-03-03T12:00:00Z",
+    "amount": "7.00",
+    "currency": "EUR",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-03-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0082-03-1",
+    "invoice_id": "I0082-03",
+    "paid_at": "2026-03-03T12:00:00Z",
+    "amount": "13.00",
+    "currency": "EUR",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-03-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0083-03-1",
+    "invoice_id": "I0083-03",
+    "paid_at": "2026-03-03T12:00:00Z",
+    "amount": "62.00",
+    "currency": "EUR",
+    "status": "failed",
+    "version": 1,
+    "updated_at": "2026-03-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0085-03-1",
+    "invoice_id": "I0085-03",
+    "paid_at": "2026-03-03T12:00:00Z",
+    "amount": "26.00",
+    "currency": "EUR",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-03-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0086-03-1",
+    "invoice_id": "I0086-03",
+    "paid_at": "2026-03-03T12:00:00Z",
+    "amount": "31.00",
+    "currency": "EUR",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-03-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0087-03-1",
+    "invoice_id": "I0087-03",
+    "paid_at": "2026-03-03T12:00:00Z",
+    "amount": "7.00",
+    "currency": "EUR",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-03-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0088-03-1",
+    "invoice_id": "I0088-03",
+    "paid_at": "2026-03-03T12:00:00Z",
+    "amount": "29.00",
+    "currency": "USD",
+    "status": "failed",
+    "version": 1,
+    "updated_at": "2026-03-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0090-03-1",
+    "invoice_id": "I0090-03",
+    "paid_at": "2026-03-03T12:00:00Z",
+    "amount": "14.00",
+    "currency": "EUR",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-03-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0091-03-1",
+    "invoice_id": "I0091-03",
+    "paid_at": "2026-03-03T12:00:00Z",
+    "amount": "13.00",
+    "currency": "EUR",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-03-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0092-03-1",
+    "invoice_id": "I0092-03",
+    "paid_at": "2026-03-03T12:00:00Z",
+    "amount": "32.50",
+    "currency": "USD",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-03-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0093-03-1",
+    "invoice_id": "I0093-03",
+    "paid_at": "2026-03-03T12:00:00Z",
+    "amount": "14.00",
+    "currency": "EUR",
+    "status": "failed",
+    "version": 1,
+    "updated_at": "2026-03-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0095-03-1",
+    "invoice_id": "I0095-03",
+    "paid_at": "2026-03-03T12:00:00Z",
+    "amount": "62.00",
+    "currency": "EUR",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-03-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0096-03-1",
+    "invoice_id": "I0096-03",
+    "paid_at": "2026-03-03T12:00:00Z",
+    "amount": "8.50",
+    "currency": "USD",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-03-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0097-03-1",
+    "invoice_id": "I0097-03",
+    "paid_at": "2026-03-03T12:00:00Z",
+    "amount": "13.00",
+    "currency": "EUR",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-03-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0098-03-1",
+    "invoice_id": "I0098-03",
+    "paid_at": "2026-03-03T12:00:00Z",
+    "amount": "62.00",
+    "currency": "EUR",
+    "status": "failed",
+    "version": 1,
+    "updated_at": "2026-03-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0100-03-1",
+    "invoice_id": "I0100-03",
+    "paid_at": "2026-03-03T12:00:00Z",
+    "amount": "29.00",
+    "currency": "USD",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-03-03T12:00:00Z"
+  },
+  {
+    "payment_id": "P0002-03-2",
+    "invoice_id": "I0002-03",
+    "paid_at": "2026-03-12T12:00:00Z",
+    "amount": "31.00",
+    "currency": "EUR",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-03-12T12:00:00Z"
+  },
+  {
+    "payment_id": "P0007-03-2",
+    "invoice_id": "I0007-03",
+    "paid_at": "2026-03-12T12:00:00Z",
+    "amount": "13.00",
+    "currency": "EUR",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-03-12T12:00:00Z"
+  },
+  {
+    "payment_id": "P0012-03-2",
+    "invoice_id": "I0012-03",
+    "paid_at": "2026-03-12T12:00:00Z",
+    "amount": "32.50",
+    "currency": "USD",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-03-12T12:00:00Z"
+  },
+  {
+    "payment_id": "P0017-03-2",
+    "invoice_id": "I0017-03",
+    "paid_at": "2026-03-12T12:00:00Z",
+    "amount": "31.00",
+    "currency": "EUR",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-03-12T12:00:00Z"
+  },
+  {
+    "payment_id": "P0022-03-2",
+    "invoice_id": "I0022-03",
+    "paid_at": "2026-03-12T12:00:00Z",
+    "amount": "13.00",
+    "currency": "EUR",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-03-12T12:00:00Z"
+  },
+  {
+    "payment_id": "P0027-03-2",
+    "invoice_id": "I0027-03",
+    "paid_at": "2026-03-12T12:00:00Z",
+    "amount": "7.00",
+    "currency": "EUR",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-03-12T12:00:00Z"
+  },
+  {
+    "payment_id": "P0032-03-2",
+    "invoice_id": "I0032-03",
+    "paid_at": "2026-03-12T12:00:00Z",
+    "amount": "32.50",
+    "currency": "USD",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-03-12T12:00:00Z"
+  },
+  {
+    "payment_id": "P0037-03-2",
+    "invoice_id": "I0037-03",
+    "paid_at": "2026-03-12T12:00:00Z",
+    "amount": "13.00",
+    "currency": "EUR",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-03-12T12:00:00Z"
+  },
+  {
+    "payment_id": "P0042-03-2",
+    "invoice_id": "I0042-03",
+    "paid_at": "2026-03-12T12:00:00Z",
+    "amount": "31.00",
+    "currency": "EUR",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-03-12T12:00:00Z"
+  },
+  {
+    "payment_id": "P0047-03-2",
+    "invoice_id": "I0047-03",
+    "paid_at": "2026-03-12T12:00:00Z",
+    "amount": "31.00",
+    "currency": "EUR",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-03-12T12:00:00Z"
+  },
+  {
+    "payment_id": "P0052-03-2",
+    "invoice_id": "I0052-03",
+    "paid_at": "2026-03-12T12:00:00Z",
+    "amount": "14.50",
+    "currency": "USD",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-03-12T12:00:00Z"
+  },
+  {
+    "payment_id": "P0057-03-2",
+    "invoice_id": "I0057-03",
+    "paid_at": "2026-03-12T12:00:00Z",
+    "amount": "7.00",
+    "currency": "EUR",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-03-12T12:00:00Z"
+  },
+  {
+    "payment_id": "P0062-03-2",
+    "invoice_id": "I0062-03",
+    "paid_at": "2026-03-12T12:00:00Z",
+    "amount": "31.00",
+    "currency": "EUR",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-03-12T12:00:00Z"
+  },
+  {
+    "payment_id": "P0067-03-2",
+    "invoice_id": "I0067-03",
+    "paid_at": "2026-03-12T12:00:00Z",
+    "amount": "13.00",
+    "currency": "EUR",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-03-12T12:00:00Z"
+  },
+  {
+    "payment_id": "P0072-03-2",
+    "invoice_id": "I0072-03",
+    "paid_at": "2026-03-12T12:00:00Z",
+    "amount": "32.50",
+    "currency": "USD",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-03-12T12:00:00Z"
+  },
+  {
+    "payment_id": "P0077-03-2",
+    "invoice_id": "I0077-03",
+    "paid_at": "2026-03-12T12:00:00Z",
+    "amount": "31.00",
+    "currency": "EUR",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-03-12T12:00:00Z"
+  },
+  {
+    "payment_id": "P0082-03-2",
+    "invoice_id": "I0082-03",
+    "paid_at": "2026-03-12T12:00:00Z",
+    "amount": "13.00",
+    "currency": "EUR",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-03-12T12:00:00Z"
+  },
+  {
+    "payment_id": "P0087-03-2",
+    "invoice_id": "I0087-03",
+    "paid_at": "2026-03-12T12:00:00Z",
+    "amount": "7.00",
+    "currency": "EUR",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-03-12T12:00:00Z"
+  },
+  {
+    "payment_id": "P0092-03-2",
+    "invoice_id": "I0092-03",
+    "paid_at": "2026-03-12T12:00:00Z",
+    "amount": "32.50",
+    "currency": "USD",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-03-12T12:00:00Z"
+  },
+  {
+    "payment_id": "P0097-03-2",
+    "invoice_id": "I0097-03",
+    "paid_at": "2026-03-12T12:00:00Z",
+    "amount": "13.00",
+    "currency": "EUR",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-03-12T12:00:00Z"
+  }
+]

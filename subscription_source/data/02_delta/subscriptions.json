@@ -1,0 +1,506 @@
+{
+  "subscriptions": [
+    {
+      "subscription_id": "S0006",
+      "customer_id": "C0006",
+      "events": [
+        {
+          "event_id": "E0006-2",
+          "effective_at": "2026-02-01T00:00:00Z",
+          "state": "active",
+          "plan_id": "team_EUR",
+          "version": 1,
+          "updated_at": "2026-02-01T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "subscription_id": "S0012",
+      "customer_id": "C0012",
+      "events": [
+        {
+          "event_id": "E0012-2",
+          "effective_at": "2026-02-01T00:00:00Z",
+          "state": "active",
+          "plan_id": "team_USD",
+          "version": 1,
+          "updated_at": "2026-02-01T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "subscription_id": "S0018",
+      "customer_id": "C0018",
+      "events": [
+        {
+          "event_id": "E0018-2",
+          "effective_at": "2026-02-01T00:00:00Z",
+          "state": "active",
+          "plan_id": "team_EUR",
+          "version": 1,
+          "updated_at": "2026-02-01T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "subscription_id": "S0024",
+      "customer_id": "C0024",
+      "events": [
+        {
+          "event_id": "E0024-2",
+          "effective_at": "2026-02-01T00:00:00Z",
+          "state": "active",
+          "plan_id": "team_USD",
+          "version": 1,
+          "updated_at": "2026-02-01T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "subscription_id": "S0030",
+      "customer_id": "C0030",
+      "events": [
+        {
+          "event_id": "E0030-2",
+          "effective_at": "2026-02-01T00:00:00Z",
+          "state": "active",
+          "plan_id": "team_EUR",
+          "version": 1,
+          "updated_at": "2026-02-01T00:00:00Z"
+        },
+        {
+          "event_id": "E0030-3",
+          "effective_at": "2026-02-10T00:00:00Z",
+          "state": "paused",
+          "plan_id": "team_EUR",
+          "version": 1,
+          "updated_at": "2026-02-10T00:00:00Z"
+        },
+        {
+          "event_id": "E0030-4",
+          "effective_at": "2026-02-19T00:00:00Z",
+          "state": "active",
+          "plan_id": "team_EUR",
+          "version": 1,
+          "updated_at": "2026-02-19T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "subscription_id": "S0036",
+      "customer_id": "C0036",
+      "events": [
+        {
+          "event_id": "E0036-2",
+          "effective_at": "2026-02-01T00:00:00Z",
+          "state": "active",
+          "plan_id": "team_USD",
+          "version": 1,
+          "updated_at": "2026-02-01T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "subscription_id": "S0042",
+      "customer_id": "C0042",
+      "events": [
+        {
+          "event_id": "E0042-2",
+          "effective_at": "2026-02-01T00:00:00Z",
+          "state": "active",
+          "plan_id": "team_EUR",
+          "version": 1,
+          "updated_at": "2026-02-01T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "subscription_id": "S0048",
+      "customer_id": "C0048",
+      "events": [
+        {
+          "event_id": "E0048-2",
+          "effective_at": "2026-02-01T00:00:00Z",
+          "state": "active",
+          "plan_id": "team_USD",
+          "version": 1,
+          "updated_at": "2026-02-01T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "subscription_id": "S0054",
+      "customer_id": "C0054",
+      "events": [
+        {
+          "event_id": "E0054-2",
+          "effective_at": "2026-02-01T00:00:00Z",
+          "state": "active",
+          "plan_id": "team_EUR",
+          "version": 1,
+          "updated_at": "2026-02-01T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "subscription_id": "S0060",
+      "customer_id": "C0060",
+      "events": [
+        {
+          "event_id": "E0060-2",
+          "effective_at": "2026-02-01T00:00:00Z",
+          "state": "active",
+          "plan_id": "team_USD",
+          "version": 1,
+          "updated_at": "2026-02-01T00:00:00Z"
+        },
+        {
+          "event_id": "E0060-3",
+          "effective_at": "2026-02-10T00:00:00Z",
+          "state": "paused",
+          "plan_id": "team_USD",
+          "version": 1,
+          "updated_at": "2026-02-10T00:00:00Z"
+        },
+        {
+          "event_id": "E0060-4",
+          "effective_at": "2026-02-19T00:00:00Z",
+          "state": "active",
+          "plan_id": "team_USD",
+          "version": 1,
+          "updated_at": "2026-02-19T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "subscription_id": "S0066",
+      "customer_id": "C0066",
+      "events": [
+        {
+          "event_id": "E0066-2",
+          "effective_at": "2026-02-01T00:00:00Z",
+          "state": "active",
+          "plan_id": "team_EUR",
+          "version": 1,
+          "updated_at": "2026-02-01T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "subscription_id": "S0072",
+      "customer_id": "C0072",
+      "events": [
+        {
+          "event_id": "E0072-2",
+          "effective_at": "2026-02-01T00:00:00Z",
+          "state": "active",
+          "plan_id": "team_USD",
+          "version": 1,
+          "updated_at": "2026-02-01T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "subscription_id": "S0078",
+      "customer_id": "C0078",
+      "events": [
+        {
+          "event_id": "E0078-2",
+          "effective_at": "2026-02-01T00:00:00Z",
+          "state": "active",
+          "plan_id": "team_EUR",
+          "version": 1,
+          "updated_at": "2026-02-01T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "subscription_id": "S0081",
+      "customer_id": "C0001",
+      "events": [
+        {
+          "event_id": "E0081-1",
+          "effective_at": "2026-02-01T00:00:00Z",
+          "state": "active",
+          "plan_id": "basic_EUR",
+          "version": 1,
+          "updated_at": "2026-02-01T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "subscription_id": "S0082",
+      "customer_id": "C0002",
+      "events": [
+        {
+          "event_id": "E0082-1",
+          "effective_at": "2026-02-01T00:00:00Z",
+          "state": "active",
+          "plan_id": "plus_EUR",
+          "version": 1,
+          "updated_at": "2026-02-01T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "subscription_id": "S0083",
+      "customer_id": "C0003",
+      "events": [
+        {
+          "event_id": "E0083-1",
+          "effective_at": "2026-02-01T00:00:00Z",
+          "state": "active",
+          "plan_id": "team_EUR",
+          "version": 1,
+          "updated_at": "2026-02-01T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "subscription_id": "S0084",
+      "customer_id": "C0004",
+      "events": [
+        {
+          "event_id": "E0084-1",
+          "effective_at": "2026-02-01T00:00:00Z",
+          "state": "active",
+          "plan_id": "basic_USD",
+          "version": 1,
+          "updated_at": "2026-02-01T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "subscription_id": "S0085",
+      "customer_id": "C0005",
+      "events": [
+        {
+          "event_id": "E0085-1",
+          "effective_at": "2026-02-01T00:00:00Z",
+          "state": "active",
+          "plan_id": "plus_EUR",
+          "version": 1,
+          "updated_at": "2026-02-01T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "subscription_id": "S0086",
+      "customer_id": "C0006",
+      "events": [
+        {
+          "event_id": "E0086-1",
+          "effective_at": "2026-02-01T00:00:00Z",
+          "state": "active",
+          "plan_id": "team_EUR",
+          "version": 1,
+          "updated_at": "2026-02-01T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "subscription_id": "S0087",
+      "customer_id": "C0007",
+      "events": [
+        {
+          "event_id": "E0087-1",
+          "effective_at": "2026-02-01T00:00:00Z",
+          "state": "active",
+          "plan_id": "basic_EUR",
+          "version": 1,
+          "updated_at": "2026-02-01T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "subscription_id": "S0088",
+      "customer_id": "C0008",
+      "events": [
+        {
+          "event_id": "E0088-1",
+          "effective_at": "2026-02-01T00:00:00Z",
+          "state": "active",
+          "plan_id": "plus_USD",
+          "version": 1,
+          "updated_at": "2026-02-01T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "subscription_id": "S0089",
+      "customer_id": "C0009",
+      "events": [
+        {
+          "event_id": "E0089-1",
+          "effective_at": "2026-02-01T00:00:00Z",
+          "state": "active",
+          "plan_id": "team_EUR",
+          "version": 1,
+          "updated_at": "2026-02-01T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "subscription_id": "S0090",
+      "customer_id": "C0010",
+      "events": [
+        {
+          "event_id": "E0090-1",
+          "effective_at": "2026-02-01T00:00:00Z",
+          "state": "active",
+          "plan_id": "basic_EUR",
+          "version": 1,
+          "updated_at": "2026-02-01T00:00:00Z"
+        },
+        {
+          "event_id": "E0090-3",
+          "effective_at": "2026-02-10T00:00:00Z",
+          "state": "paused",
+          "plan_id": "basic_EUR",
+          "version": 1,
+          "updated_at": "2026-02-10T00:00:00Z"
+        },
+        {
+          "event_id": "E0090-4",
+          "effective_at": "2026-02-19T00:00:00Z",
+          "state": "active",
+          "plan_id": "basic_EUR",
+          "version": 1,
+          "updated_at": "2026-02-19T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "subscription_id": "S0010",
+      "customer_id": "C0010",
+      "events": [
+        {
+          "event_id": "E0010-3",
+          "effective_at": "2026-02-10T00:00:00Z",
+          "state": "paused",
+          "plan_id": "plus_EUR",
+          "version": 1,
+          "updated_at": "2026-02-10T00:00:00Z"
+        },
+        {
+          "event_id": "E0010-4",
+          "effective_at": "2026-02-19T00:00:00Z",
+          "state": "active",
+          "plan_id": "plus_EUR",
+          "version": 1,
+          "updated_at": "2026-02-19T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "subscription_id": "S0020",
+      "customer_id": "C0020",
+      "events": [
+        {
+          "event_id": "E0020-3",
+          "effective_at": "2026-02-10T00:00:00Z",
+          "state": "paused",
+          "plan_id": "team_USD",
+          "version": 1,
+          "updated_at": "2026-02-10T00:00:00Z"
+        },
+        {
+          "event_id": "E0020-4",
+          "effective_at": "2026-02-19T00:00:00Z",
+          "state": "active",
+          "plan_id": "team_USD",
+          "version": 1,
+          "updated_at": "2026-02-19T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "subscription_id": "S0040",
+      "customer_id": "C0040",
+      "events": [
+        {
+          "event_id": "E0040-3",
+          "effective_at": "2026-02-10T00:00:00Z",
+          "state": "paused",
+          "plan_id": "plus_USD",
+          "version": 1,
+          "updated_at": "2026-02-10T00:00:00Z"
+        },
+        {
+          "event_id": "E0040-4",
+          "effective_at": "2026-02-19T00:00:00Z",
+          "state": "active",
+          "plan_id": "plus_USD",
+          "version": 1,
+          "updated_at": "2026-02-19T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "subscription_id": "S0050",
+      "customer_id": "C0050",
+      "events": [
+        {
+          "event_id": "E0050-3",
+          "effective_at": "2026-02-10T00:00:00Z",
+          "state": "paused",
+          "plan_id": "team_EUR",
+          "version": 1,
+          "updated_at": "2026-02-10T00:00:00Z"
+        },
+        {
+          "event_id": "E0050-4",
+          "effective_at": "2026-02-19T00:00:00Z",
+          "state": "active",
+          "plan_id": "team_EUR",
+          "version": 1,
+          "updated_at": "2026-02-19T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "subscription_id": "S0070",
+      "customer_id": "C0070",
+      "events": [
+        {
+          "event_id": "E0070-3",
+          "effective_at": "2026-02-10T00:00:00Z",
+          "state": "paused",
+          "plan_id": "plus_EUR",
+          "version": 1,
+          "updated_at": "2026-02-10T00:00:00Z"
+        },
+        {
+          "event_id": "E0070-4",
+          "effective_at": "2026-02-19T00:00:00Z",
+          "state": "active",
+          "plan_id": "plus_EUR",
+          "version": 1,
+          "updated_at": "2026-02-19T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "subscription_id": "S0080",
+      "customer_id": "C0080",
+      "events": [
+        {
+          "event_id": "E0080-3",
+          "effective_at": "2026-02-10T00:00:00Z",
+          "state": "paused",
+          "plan_id": "team_USD",
+          "version": 1,
+          "updated_at": "2026-02-10T00:00:00Z"
+        },
+        {
+          "event_id": "E0080-4",
+          "effective_at": "2026-02-19T00:00:00Z",
+          "state": "active",
+          "plan_id": "team_USD",
+          "version": 1,
+          "updated_at": "2026-02-19T00:00:00Z"
+        }
+      ]
+    }
+  ]
+}

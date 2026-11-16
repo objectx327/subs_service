@@ -1,0 +1,12 @@
+[
+  {
+    "payment_id": "P0001-01-1",
+    "invoice_id": "I0001-01",
+    "paid_at": "2026-01-03T12:00:00Z",
+    "amount": "12.00",
+    "currency": "EUR",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-04-02T00:00:00Z"
+  }
+]

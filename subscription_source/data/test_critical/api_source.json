@@ -1,0 +1,12 @@
+[
+  {
+    "payment_id": "P-TEST",
+    "invoice_id": "I-MISSING",
+    "paid_at": "2026-01-03T12:00:00Z",
+    "amount": "-10.00",
+    "currency": "EUR",
+    "status": "succeeded",
+    "version": 1,
+    "updated_at": "2026-04-02T00:00:00Z"
+  }
+]

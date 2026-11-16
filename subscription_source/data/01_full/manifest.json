@@ -1,0 +1,26 @@
+{
+  "delivery": "01_full",
+  "mode": "full",
+  "from_inclusive": null,
+  "until_exclusive": "2026-02-01T00:00:00Z",
+  "complete": true,
+  "counts": {
+    "customers": 80,
+    "plans": 6,
+    "events": 80,
+    "invoices": 80,
+    "payments": 79,
+    "refunds": 0
+  },
+  "amounts_by_currency": {
+    "invoices": {
+      "EUR": "1920.00",
+      "USD": "720.00"
+    },
+    "payments": {
+      "EUR": "978.00",
+      "USD": "354.00"
+    },
+    "refunds": {}
+  }
+}
