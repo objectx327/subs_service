@@ -1,0 +1,22 @@
+{
+  "delivery": "test_critical",
+  "mode": "delta",
+  "from_inclusive": "2026-04-02T00:00:00Z",
+  "until_exclusive": "2026-04-03T00:00:00Z",
+  "complete": true,
+  "counts": {
+    "customers": 0,
+    "plans": 0,
+    "events": 0,
+    "invoices": 0,
+    "payments": 1,
+    "refunds": 0
+  },
+  "amounts_by_currency": {
+    "invoices": {},
+    "payments": {
+      "EUR": "-10.00"
+    },
+    "refunds": {}
+  }
+}

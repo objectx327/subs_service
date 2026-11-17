@@ -1,0 +1,9 @@
+customer_id,segment,acquisition_channel,version,updated_at
+C0009,individual,app,2,2026-02-12T00:00:00Z
+C0018,business,app,2,2026-02-12T00:00:00Z
+C0027,individual,app,2,2026-02-12T00:00:00Z
+C0036,business,app,2,2026-02-12T00:00:00Z
+C0045,individual,app,2,2026-02-12T00:00:00Z
+C0054,business,app,2,2026-02-12T00:00:00Z
+C0063,individual,app,2,2026-02-12T00:00:00Z
+C0072,business,app,2,2026-02-12T00:00:00Z

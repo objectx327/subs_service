@@ -1,0 +1,26 @@
+{
+  "delivery": "03_delta",
+  "mode": "delta",
+  "from_inclusive": "2026-03-01T00:00:00Z",
+  "until_exclusive": "2026-04-01T00:00:00Z",
+  "complete": true,
+  "counts": {
+    "customers": 0,
+    "plans": 0,
+    "events": 22,
+    "invoices": 100,
+    "payments": 101,
+    "refunds": 0
+  },
+  "amounts_by_currency": {
+    "invoices": {
+      "EUR": "2886.00",
+      "USD": "1205.00"
+    },
+    "payments": {
+      "EUR": "1449.00",
+      "USD": "644.50"
+    },
+    "refunds": {}
+  }
+}
