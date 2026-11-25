@@ -12,7 +12,7 @@ create table if not exists stg.source_records (
 
     constraint uq_stg_source_record unique (load_id, source_type, record_number),
     constraint ck_stg_source_type check (
-        source_type in ('customers', 'plans', 'subscriptions', 'invoices', 'payments', 'refunds')
+        source_type in ('customers', 'plans', 'subscriptions', 'invoices', 'payments', 'refunds', 'manifest')
     ),
     constraint ck_stg_record_number check (record_number > 0),
     constraint ck_stg_page_number check (page_number is null or page_number > 0),

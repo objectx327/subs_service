@@ -110,7 +110,7 @@ create table if not exists core.fact_refund (
     constraint ck_refund_id check (btrim(refund_id) <> ''),
     constraint ck_refund_amount check (amount >= 0),
     constraint ck_refund_currency check (currency in ('EUR', 'USD')),
-    constraint ck_refund_status check (status in ('succeeded')),
+    constraint ck_refund_status check (status in ('succeeded', 'failed')),
     constraint ck_refund_version check (source_version >= 1)
 );
 
